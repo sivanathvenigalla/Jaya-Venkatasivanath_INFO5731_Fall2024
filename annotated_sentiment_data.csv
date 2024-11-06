@@ -1,0 +1,6 @@
+document_id,clean_text,sentiment
+1,This movie was absolutely fantastic!,Positive
+2,I didn't like the plot; it was very boring.,Negative
+3,"The performance was okay, nothing special.",Neutral
+4,An amazing experience; I loved every moment!,Positive
+5,It was a waste of time and money.,Negative
